@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Ruwanda Rentals\\GSCN\\GSCN.DataLayer\\GSCN.DataLayer.csproj": {}
+  },
+  "projects": {
+    "F:\\Ruwanda Rentals\\GSCN\\GSCN.DataLayer\\GSCN.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Ruwanda Rentals\\GSCN\\GSCN.DataLayer\\GSCN.DataLayer.csproj",
+        "projectName": "GSCN.DataLayer",
+        "projectPath": "F:\\Ruwanda Rentals\\GSCN\\GSCN.DataLayer\\GSCN.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\Chandan\\.nuget\\packages\\",
+        "outputPath": "F:\\Ruwanda Rentals\\GSCN\\GSCN.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Chandan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\Ruwanda Rentals\\GSCN\\GSCN.Models\\GSCN.Models.csproj": {
+                "projectPath": "F:\\Ruwanda Rentals\\GSCN\\GSCN.Models\\GSCN.Models.csproj"
+              },
+              "F:\\Ruwanda Rentals\\GSCN\\GSCN.Utility\\GSCN.Utility.csproj": {
+                "projectPath": "F:\\Ruwanda Rentals\\GSCN\\GSCN.Utility\\GSCN.Utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Ruwanda Rentals\\GSCN\\GSCN.Dto\\GSCN.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Ruwanda Rentals\\GSCN\\GSCN.Dto\\GSCN.Dto.csproj",
+        "projectName": "GSCN.Dto",
+        "projectPath": "F:\\Ruwanda Rentals\\GSCN\\GSCN.Dto\\GSCN.Dto.csproj",
+        "packagesPath": "C:\\Users\\Chandan\\.nuget\\packages\\",
+        "outputPath": "F:\\Ruwanda Rentals\\GSCN\\GSCN.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Chandan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Ruwanda Rentals\\GSCN\\GSCN.Models\\GSCN.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Ruwanda Rentals\\GSCN\\GSCN.Models\\GSCN.Models.csproj",
+        "projectName": "GSCN.Models",
+        "projectPath": "F:\\Ruwanda Rentals\\GSCN\\GSCN.Models\\GSCN.Models.csproj",
+        "packagesPath": "C:\\Users\\Chandan\\.nuget\\packages\\",
+        "outputPath": "F:\\Ruwanda Rentals\\GSCN\\GSCN.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Chandan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\Ruwanda Rentals\\GSCN\\GSCN.Dto\\GSCN.Dto.csproj": {
+                "projectPath": "F:\\Ruwanda Rentals\\GSCN\\GSCN.Dto\\GSCN.Dto.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Ruwanda Rentals\\GSCN\\GSCN.Utility\\GSCN.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Ruwanda Rentals\\GSCN\\GSCN.Utility\\GSCN.Utility.csproj",
+        "projectName": "GSCN.Utility",
+        "projectPath": "F:\\Ruwanda Rentals\\GSCN\\GSCN.Utility\\GSCN.Utility.csproj",
+        "packagesPath": "C:\\Users\\Chandan\\.nuget\\packages\\",
+        "outputPath": "F:\\Ruwanda Rentals\\GSCN\\GSCN.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Chandan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "F:\\Ruwanda Rentals\\GSCN\\GSCN.Dto\\GSCN.Dto.csproj": {
+                "projectPath": "F:\\Ruwanda Rentals\\GSCN\\GSCN.Dto\\GSCN.Dto.csproj"
+              },
+              "F:\\Ruwanda Rentals\\GSCN\\GSCN.Models\\GSCN.Models.csproj": {
+                "projectPath": "F:\\Ruwanda Rentals\\GSCN\\GSCN.Models\\GSCN.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

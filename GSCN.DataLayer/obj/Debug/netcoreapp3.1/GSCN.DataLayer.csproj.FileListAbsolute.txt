@@ -1,0 +1,30 @@
+C:\Users\Vinod\source\repos\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.Dto.dll
+C:\Users\Vinod\source\repos\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.Models.dll
+C:\Users\Vinod\source\repos\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.Utility.dll
+C:\Users\Vinod\source\repos\GSCN\GSCN.DataLayer\obj\Debug\netcoreapp3.1\GSCN.DataLayer.csprojAssemblyReference.cache
+C:\Users\Vinod\source\repos\GSCN\GSCN.DataLayer\obj\Debug\netcoreapp3.1\GSCN.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Vinod\source\repos\GSCN\GSCN.DataLayer\obj\Debug\netcoreapp3.1\GSCN.DataLayer.AssemblyInfo.cs
+C:\Users\Vinod\source\repos\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.DataLayer.deps.json
+C:\Users\Vinod\source\repos\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.DataLayer.dll
+C:\Users\Vinod\source\repos\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.DataLayer.pdb
+C:\Users\Vinod\source\repos\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.Models.pdb
+C:\Users\Vinod\source\repos\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.Utility.pdb
+C:\Users\Vinod\source\repos\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.Dto.pdb
+C:\Users\Vinod\source\repos\GSCN\GSCN.DataLayer\obj\Debug\netcoreapp3.1\GSCN.DataLayer.csproj.CopyComplete
+C:\Users\Vinod\source\repos\GSCN\GSCN.DataLayer\obj\Debug\netcoreapp3.1\GSCN.DataLayer.dll
+C:\Users\Vinod\source\repos\GSCN\GSCN.DataLayer\obj\Debug\netcoreapp3.1\GSCN.DataLayer.pdb
+F:\Ruwanda Rentals\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.DataLayer.deps.json
+F:\Ruwanda Rentals\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.DataLayer.dll
+F:\Ruwanda Rentals\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.DataLayer.pdb
+F:\Ruwanda Rentals\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.Dto.dll
+F:\Ruwanda Rentals\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.Models.dll
+F:\Ruwanda Rentals\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.Utility.dll
+F:\Ruwanda Rentals\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.Models.pdb
+F:\Ruwanda Rentals\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.Utility.pdb
+F:\Ruwanda Rentals\GSCN\GSCN.DataLayer\bin\Debug\netcoreapp3.1\GSCN.Dto.pdb
+F:\Ruwanda Rentals\GSCN\GSCN.DataLayer\obj\Debug\netcoreapp3.1\GSCN.DataLayer.csprojAssemblyReference.cache
+F:\Ruwanda Rentals\GSCN\GSCN.DataLayer\obj\Debug\netcoreapp3.1\GSCN.DataLayer.AssemblyInfoInputs.cache
+F:\Ruwanda Rentals\GSCN\GSCN.DataLayer\obj\Debug\netcoreapp3.1\GSCN.DataLayer.AssemblyInfo.cs
+F:\Ruwanda Rentals\GSCN\GSCN.DataLayer\obj\Debug\netcoreapp3.1\GSCN.DataLayer.csproj.CopyComplete
+F:\Ruwanda Rentals\GSCN\GSCN.DataLayer\obj\Debug\netcoreapp3.1\GSCN.DataLayer.dll
+F:\Ruwanda Rentals\GSCN\GSCN.DataLayer\obj\Debug\netcoreapp3.1\GSCN.DataLayer.pdb

@@ -1,0 +1,15 @@
+C:\Users\Vinod\source\repos\GSCN\GSCN.Dto\bin\Debug\netcoreapp3.1\GSCN.Dto.deps.json
+C:\Users\Vinod\source\repos\GSCN\GSCN.Dto\bin\Debug\netcoreapp3.1\GSCN.Dto.dll
+C:\Users\Vinod\source\repos\GSCN\GSCN.Dto\bin\Debug\netcoreapp3.1\GSCN.Dto.pdb
+C:\Users\Vinod\source\repos\GSCN\GSCN.Dto\obj\Debug\netcoreapp3.1\GSCN.Dto.AssemblyInfoInputs.cache
+C:\Users\Vinod\source\repos\GSCN\GSCN.Dto\obj\Debug\netcoreapp3.1\GSCN.Dto.AssemblyInfo.cs
+C:\Users\Vinod\source\repos\GSCN\GSCN.Dto\obj\Debug\netcoreapp3.1\GSCN.Dto.dll
+C:\Users\Vinod\source\repos\GSCN\GSCN.Dto\obj\Debug\netcoreapp3.1\GSCN.Dto.pdb
+F:\Ruwanda Rentals\GSCN\GSCN.Dto\bin\Debug\netcoreapp3.1\GSCN.Dto.deps.json
+F:\Ruwanda Rentals\GSCN\GSCN.Dto\bin\Debug\netcoreapp3.1\GSCN.Dto.dll
+F:\Ruwanda Rentals\GSCN\GSCN.Dto\bin\Debug\netcoreapp3.1\GSCN.Dto.pdb
+F:\Ruwanda Rentals\GSCN\GSCN.Dto\obj\Debug\netcoreapp3.1\GSCN.Dto.AssemblyInfoInputs.cache
+F:\Ruwanda Rentals\GSCN\GSCN.Dto\obj\Debug\netcoreapp3.1\GSCN.Dto.AssemblyInfo.cs
+F:\Ruwanda Rentals\GSCN\GSCN.Dto\obj\Debug\netcoreapp3.1\GSCN.Dto.dll
+F:\Ruwanda Rentals\GSCN\GSCN.Dto\obj\Debug\netcoreapp3.1\GSCN.Dto.pdb
+F:\Ruwanda Rentals\GSCN\GSCN.Dto\obj\Debug\netcoreapp3.1\GSCN.Dto.csprojAssemblyReference.cache

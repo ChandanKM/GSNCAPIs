@@ -1,0 +1,26 @@
+C:\Users\Vinod\source\repos\GSCN\GSCN.Utility\bin\Debug\netcoreapp3.1\GSCN.Utility.deps.json
+C:\Users\Vinod\source\repos\GSCN\GSCN.Utility\bin\Debug\netcoreapp3.1\GSCN.Utility.dll
+C:\Users\Vinod\source\repos\GSCN\GSCN.Utility\bin\Debug\netcoreapp3.1\GSCN.Utility.pdb
+C:\Users\Vinod\source\repos\GSCN\GSCN.Utility\bin\Debug\netcoreapp3.1\GSCN.Dto.dll
+C:\Users\Vinod\source\repos\GSCN\GSCN.Utility\bin\Debug\netcoreapp3.1\GSCN.Models.dll
+C:\Users\Vinod\source\repos\GSCN\GSCN.Utility\bin\Debug\netcoreapp3.1\GSCN.Dto.pdb
+C:\Users\Vinod\source\repos\GSCN\GSCN.Utility\bin\Debug\netcoreapp3.1\GSCN.Models.pdb
+C:\Users\Vinod\source\repos\GSCN\GSCN.Utility\obj\Debug\netcoreapp3.1\GSCN.Utility.csprojAssemblyReference.cache
+C:\Users\Vinod\source\repos\GSCN\GSCN.Utility\obj\Debug\netcoreapp3.1\GSCN.Utility.AssemblyInfoInputs.cache
+C:\Users\Vinod\source\repos\GSCN\GSCN.Utility\obj\Debug\netcoreapp3.1\GSCN.Utility.AssemblyInfo.cs
+C:\Users\Vinod\source\repos\GSCN\GSCN.Utility\obj\Debug\netcoreapp3.1\GSCN.Utility.csproj.CopyComplete
+C:\Users\Vinod\source\repos\GSCN\GSCN.Utility\obj\Debug\netcoreapp3.1\GSCN.Utility.dll
+C:\Users\Vinod\source\repos\GSCN\GSCN.Utility\obj\Debug\netcoreapp3.1\GSCN.Utility.pdb
+F:\Ruwanda Rentals\GSCN\GSCN.Utility\bin\Debug\netcoreapp3.1\GSCN.Utility.deps.json
+F:\Ruwanda Rentals\GSCN\GSCN.Utility\bin\Debug\netcoreapp3.1\GSCN.Utility.dll
+F:\Ruwanda Rentals\GSCN\GSCN.Utility\bin\Debug\netcoreapp3.1\GSCN.Utility.pdb
+F:\Ruwanda Rentals\GSCN\GSCN.Utility\bin\Debug\netcoreapp3.1\GSCN.Dto.dll
+F:\Ruwanda Rentals\GSCN\GSCN.Utility\bin\Debug\netcoreapp3.1\GSCN.Models.dll
+F:\Ruwanda Rentals\GSCN\GSCN.Utility\bin\Debug\netcoreapp3.1\GSCN.Dto.pdb
+F:\Ruwanda Rentals\GSCN\GSCN.Utility\bin\Debug\netcoreapp3.1\GSCN.Models.pdb
+F:\Ruwanda Rentals\GSCN\GSCN.Utility\obj\Debug\netcoreapp3.1\GSCN.Utility.csprojAssemblyReference.cache
+F:\Ruwanda Rentals\GSCN\GSCN.Utility\obj\Debug\netcoreapp3.1\GSCN.Utility.AssemblyInfoInputs.cache
+F:\Ruwanda Rentals\GSCN\GSCN.Utility\obj\Debug\netcoreapp3.1\GSCN.Utility.AssemblyInfo.cs
+F:\Ruwanda Rentals\GSCN\GSCN.Utility\obj\Debug\netcoreapp3.1\GSCN.Utility.csproj.CopyComplete
+F:\Ruwanda Rentals\GSCN\GSCN.Utility\obj\Debug\netcoreapp3.1\GSCN.Utility.dll
+F:\Ruwanda Rentals\GSCN\GSCN.Utility\obj\Debug\netcoreapp3.1\GSCN.Utility.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GSCN.Models/1.0.0": {
+        "dependencies": {
+          "GSCN.Dto": "1.0.0"
+        },
+        "runtime": {
+          "GSCN.Models.dll": {}
+        }
+      },
+      "GSCN.Dto/1.0.0": {
+        "runtime": {
+          "GSCN.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GSCN.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GSCN.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
